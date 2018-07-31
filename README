@@ -1,0 +1,10 @@
+# Generate OPML from URLs
+
+  * copy just the urls (with http:// or https://) to a file called `input.txt`, one per line
+  * follow the instructions below
+
+```
+mkvirtualenv -p /usr/bin/python3 opml
+workon opml
+make
+```
