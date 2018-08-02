@@ -37,9 +37,9 @@ with open(input_file, 'r') as f:
     line = line.strip()
     slug = slugify(line)
     if line[0] == '#':
-      print('# Skipping', slug)
+      print('### Skipping', slug)
       continue
-    print('#', line, slug)
+    print('###', line, slug)
     fname = './cache/{}'.format(slug)
     if os.path.isfile(fname):
       print('### EXISTS:', slug)
@@ -86,7 +86,7 @@ with open(input_file, 'r') as f:
 
 print("#",len(rows))
 print(xml1.strip())
-for row in rows:
+for row in sorted(rows, key=lambda x: x['title'].lower()):
   tp = 'atom'
   if row['type'] == 'application/rss+xml':
     tp = 'rss'
