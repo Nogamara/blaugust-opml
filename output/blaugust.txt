@@ -13,6 +13,7 @@ http://psychochild.org/?feed=rss2
 http://randomgamerx.blogspot.com/feeds/posts/default?alt=rss
 https://ahobbitsjourney.com/feed/
 https://aldshotfirst.com/feed/
+https://analogbraindump.wordpress.com/feed/
 https://arcsoddities.home.blog/feed/
 https://armagon.wordpress.com/feed/
 https://aywren.com/feed/
@@ -47,6 +48,7 @@ https://nerdybookahs.wordpress.com/feed/
 https://news.glyffe.com/feed/
 https://nomadicgamerseh.com/feed/
 https://ocarinafarmer.wordpress.com/feed/
+https://partybusiness.wordpress.com/feed/
 https://pizzamaid.moe/feed/
 https://planbbetter.com/feed/
 https://runningshoes.tv/feed/

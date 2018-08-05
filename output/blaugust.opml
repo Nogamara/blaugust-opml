@@ -5,7 +5,7 @@
   </head>
   <body>
     <outline title="Blogs" text="Blogs">
-      <outline text="" title="" type="rss" xmlUrl="https://unidentifiedsignalsource.wordpress.com/feed/"/>
+      <outline text="unidentifiedsignalsource" title="unidentifiedsignalsource" type="rss" xmlUrl="https://unidentifiedsignalsource.wordpress.com/feed/"/>
       <outline text="A Green Mushroom" title="A Green Mushroom" type="rss" xmlUrl="http://www.agreenmushroom.com/feeds/posts/default?alt=rss"/>
       <outline text="A Hobbits Journey" title="A Hobbits Journey" type="rss" xmlUrl="https://ahobbitsjourney.com/feed/"/>
       <outline text="Aeternus Gaming" title="Aeternus Gaming" type="rss" xmlUrl="http://aeternusgaming.nl/feed/"/>
@@ -19,6 +19,7 @@
       <outline text="Beyond Tannhauser Gate" title="Beyond Tannhauser Gate" type="rss" xmlUrl="https://www.beyondtannhausergate.com/feed/"/>
       <outline text="Bio Break" title="Bio Break" type="rss" xmlUrl="https://biobreak.wordpress.com/feed/"/>
       <outline text="Book of Jen" title="Book of Jen" type="rss" xmlUrl="https://bookofjen.net/feed/"/>
+      <outline text="Brain Dump" title="Brain Dump" type="rss" xmlUrl="https://analogbraindump.wordpress.com/feed/"/>
       <outline text="Built on a Daydream" title="Built on a Daydream" type="rss" xmlUrl="https://builtonadaydream.wordpress.com/feed/"/>
       <outline text="Calamity Jess" title="Calamity Jess" type="rss" xmlUrl="http://www.calamityjess.com/feed/"/>
       <outline text="Can I Play Too?" title="Can I Play Too?" type="rss" xmlUrl="https://caniplaytooblog.wordpress.com/feed/"/>
@@ -55,6 +56,7 @@
       <outline text="Neverwinter Thoughts" title="Neverwinter Thoughts" type="rss" xmlUrl="http://neverwinterthoughts.blogspot.com/feeds/posts/default?alt=rss"/>
       <outline text="Nomadic Gamers, eh!" title="Nomadic Gamers, eh!" type="rss" xmlUrl="https://nomadicgamerseh.com/feed/"/>
       <outline text="Ocarina Farms" title="Ocarina Farms" type="rss" xmlUrl="https://ocarinafarmer.wordpress.com/feed/"/>
+      <outline text="Party Business" title="Party Business" type="rss" xmlUrl="https://partybusiness.wordpress.com/feed/"/>
       <outline text="Pizza Maid" title="Pizza Maid" type="rss" xmlUrl="https://pizzamaid.moe/feed/"/>
       <outline text="planbbetter" title="planbbetter" type="rss" xmlUrl="https://planbbetter.com/feed/"/>
       <outline text="Princess in a Castle" title="Princess in a Castle" type="rss" xmlUrl="http://www.princessinacastle.com/feed/"/>
