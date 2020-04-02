@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>OPML file for Blaugust Reborn 2018</title>
+  </head>
+  <body>
+    <outline title="Blogs" text="Blogs">
+      <outline text="Ace Asunder" title="Ace Asunder" type="rss" xmlUrl="https://aceasunder.com/feed/"/>
+      <outline text="Aeternus Gaming" title="Aeternus Gaming" type="rss" xmlUrl="http://aeternusgaming.nl/feed/"/>
+      <outline text="Battle Stance" title="Battle Stance" type="rss" xmlUrl="https://battlestance.org/feed/"/>
+      <outline text="BeckyBecky Blogs RSS Feed" title="BeckyBecky Blogs RSS Feed" type="rss" xmlUrl="https://www.beckybeckyblogs.com/feed/"/>
+      <outline text="Bio Break" title="Bio Break" type="rss" xmlUrl="https://biobreak.wordpress.com/feed/"/>
+      <outline text="Casual Aggro" title="Casual Aggro" type="rss" xmlUrl="https://casualaggro.wordpress.com/feed/"/>
+      <outline text="Daily Creative Thing" title="Daily Creative Thing" type="rss" xmlUrl="https://dailycreativething.wordpress.com/feed/"/>
+      <outline text="Dating Sims on the Holodeck" title="Dating Sims on the Holodeck" type="rss" xmlUrl="https://datingsimsontheholodeck.home.blog/feed/"/>
+      <outline text="Diary of a Guild Leader" title="Diary of a Guild Leader" type="rss" xmlUrl="https://diaryofaguildleader.com/feed/"/>
+      <outline text="Everwake's Internet Adventures" title="Everwake's Internet Adventures" type="rss" xmlUrl="https://blog.everwake.net/feeds/posts/default?alt=rss"/>
+      <outline text="Gamer Girl Confessions" title="Gamer Girl Confessions" type="rss" xmlUrl="https://gamergirlconfessions.com/feed/"/>
+      <outline text="GamingSF" title="GamingSF" type="rss" xmlUrl="https://gamingsf.wordpress.com/feed/"/>
+      <outline text="Glittering Girly Gwent Gaming" title="Glittering Girly Gwent Gaming" type="rss" xmlUrl="https://girlygwent.emjer.com/feed/"/>
+      <outline text="Going Commando | A SWTOR Fan Blog" title="Going Commando | A SWTOR Fan Blog" type="rss" xmlUrl="http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss"/>
+      <outline text="Graphiya's Garden." title="Graphiya's Garden." type="rss" xmlUrl="https://graphiya.wordpress.com/feed/"/>
+      <outline text="I'm Not Squishy" title="I'm Not Squishy" type="rss" xmlUrl="https://imnotsquishy.wordpress.com/feed/"/>
+      <outline text="Indiecator" title="Indiecator" type="rss" xmlUrl="https://indiecator.home.blog/feed/"/>
+      <outline text="Inventory Full" title="Inventory Full" type="rss" xmlUrl="https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss"/>
+      <outline text="Leaflocker" title="Leaflocker" type="rss" xmlUrl="https://leaflocker.blogspot.com/feeds/posts/default?alt=rss"/>
+      <outline text="Magen Tales" title="Magen Tales" type="rss" xmlUrl="https://www.magentales.com/feed/"/>
+      <outline text="Mailvaltar" title="Mailvaltar" type="rss" xmlUrl="https://mailvaltar.wordpress.com/feed/"/>
+      <outline text="Me Vs. Myself and I" title="Me Vs. Myself and I" type="rss" xmlUrl="https://mevsmi.com/feed/"/>
+      <outline text="MMO One Night a Week" title="MMO One Night a Week" type="rss" xmlUrl="http://mmoonenight.blogspot.com/feeds/posts/default?alt=rss"/>
+      <outline text="Narratess" title="Narratess" type="rss" xmlUrl="https://www.narratess.com/feed/"/>
+      <outline text="Nerd Girl Thoughts" title="Nerd Girl Thoughts" type="rss" xmlUrl="https://nerdgirlthoughts.game.blog/feed/"/>
+      <outline text="Nerdy Bookahs" title="Nerdy Bookahs" type="rss" xmlUrl="https://nerdybookahs.wordpress.com/feed/"/>
+      <outline text="Nomadic Gamers, eh!" title="Nomadic Gamers, eh!" type="rss" xmlUrl="https://nomadicgamerseh.com/feed/"/>
+      <outline text="Panda Steve Types Stuff" title="Panda Steve Types Stuff" type="rss" xmlUrl="https://ikralla.wordpress.com/feed/"/>
+      <outline text="Parallel Context" title="Parallel Context" type="rss" xmlUrl="https://parallelcontext.blogspot.com/feeds/posts/default?alt=rss"/>
+      <outline text="Princess in a Castle" title="Princess in a Castle" type="rss" xmlUrl="https://www.princessinacastle.com/feed/"/>
+      <outline text="RSS Feed" title="RSS Feed" type="rss" xmlUrl="http://www.containsmoderateperil.com/blog?format=rss"/>
+      <outline text="rumorsmatrix, the blog" title="rumorsmatrix, the blog" type="rss" xmlUrl="https://rumorsmatrix.com/blog/feed/"/>
+      <outline text="Swiftcast" title="Swiftcast" type="rss" xmlUrl="https://swiftcast.net/feed/"/>
+      <outline text="The Ancient Gaming Noob" title="The Ancient Gaming Noob" type="rss" xmlUrl="https://tagn.wordpress.com/feed/"/>
+      <outline text="The Path They Walk" title="The Path They Walk" type="rss" xmlUrl="https://thepaththeywalk.wordpress.com/feed/"/>
+      <outline text="Unidentified Signal Source" title="Unidentified Signal Source" type="rss" xmlUrl="https://unidentifiedsignalsource.wordpress.com/feed/"/>
+      <outline text="WoW Alt Addiction" title="WoW Alt Addiction" type="rss" xmlUrl="https://wowaltaddiction.blogspot.com/feeds/posts/default?alt=rss"/>
+      <outline text="Tales of the Aggronaut" title="Tales of the Aggronaut" type="rss" xmlUrl="https://aggronaut.com/feed/"/>
+      <outline text="Time to Loot" title="Time to Loot" type="rss" xmlUrl="https://www.timetoloot.com/feed/"/>
+      <outline text="Shadowz Abstract Gaming Blog" title="Shadowz Abstract Gaming Blog" type="rss" xmlUrl="https://shadowmmorpg.sadesignz.org/feed/"/>
+      <outline text="Beyond Tannhauser Gate" title="Beyond Tannhauser Gate" type="rss" xmlUrl="http://www.beyondtannhausergate.com/feed/"/>
+      <outline text="Everwake's Internet Adventures " title="Everwake's Internet Adventures " type="rss" xmlUrl="https://blog.everwake.net/feeds/posts/default"/>
+    </outline>
+  </body>
+</opml>

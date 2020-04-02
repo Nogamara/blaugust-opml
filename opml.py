@@ -86,10 +86,17 @@ with open(input_file, 'r') as f:
 
 print("#",len(rows))
 print(xml1.strip())
-for row in sorted(rows, key=lambda x: x['title'].lower()):
+
+def tt(x):
+    if not 'title' in x or x['title'] is None:
+      return 'x'
+    return x['title'].lower()
+
+for row in sorted(rows, key=tt):
   tp = 'atom'
   if row['type'] == 'application/rss+xml':
     tp = 'rss'
+  row['title'] = row['title'] or "x"
   row['title'] = row['title'].replace(' » Feed', '')
   row['title'] = row['title'].replace(' - RSS', '')
   row['title'] = row['title'].strip()
