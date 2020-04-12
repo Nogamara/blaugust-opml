@@ -49,6 +49,9 @@
       <outline text="Beyond Tannhauser Gate" title="Beyond Tannhauser Gate" type="rss" xmlUrl="http://www.beyondtannhausergate.com/feed/"/>
       <outline text="Everwake's Internet Adventures " title="Everwake's Internet Adventures " type="rss" xmlUrl="https://blog.everwake.net/feeds/posts/default"/>
       <outline text="Leeterati" title="Leeterati" type="rss" xmlUrl="http://www.leeterati.com/feed/"/>
+      <outline text="Green Not-bananas" title="Green Not-bananas" type="rss" xmlUrl="https://greennotbananas.wordpress.com/feed/"/>
+      <outline text="MMO Juggler" title="MMO Juggler" type="rss" xmlUrl="https://mmojuggler.wordpress.com/feed/"/>
+      <outline text="welshtroll" title="welshtroll" type="rss" xmlUrl="https://welshtroll.co.uk/feed/"/>
     </outline>
   </body>
 </opml>

@@ -5,6 +5,7 @@ https://battlestance.org/feed/
 https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss
 https://biobreak.wordpress.com/feed/
 https://blog.everwake.net/feeds/posts/default?alt=rss
+https://oh-lali-lali-lali-lalipop.tumblr.com/rss
 https://casualaggro.wordpress.com/feed/
 https://dailycreativething.wordpress.com/feed/
 https://datingsimsontheholodeck.home.blog/feed/
@@ -41,3 +42,6 @@ https://shadowmmorpg.sadesignz.org/feed/
 http://www.beyondtannhausergate.com/feed/
 https://blog.everwake.net/feeds/posts/default
 http://www.leeterati.com/feed/
+https://welshtroll.co.uk/feed/
+https://greennotbananas.wordpress.com/feed/
+https://mmojuggler.wordpress.com/feed/
