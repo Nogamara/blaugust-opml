@@ -11,7 +11,7 @@
       <outline text="Chasing Dings!" title="Chasing Dings!" type="rss" xmlUrl="https://chasingdings.com/feed/"/>
       <outline text="Dragonchasers" title="Dragonchasers" type="rss" xmlUrl="https://dragonchasers.com/feed/"/>
       <outline text="Dragons and Whimsy" title="Dragons and Whimsy" type="rss" xmlUrl="https://dragonsandwhimsy.wordpress.com/feed/"/>
-      <outline text="Endgame Viable" title="Endgame Viable" type="rss" xmlUrl="/index.xml"/>
+      <outline text="Endgame Viable" title="Endgame Viable" type="rss" xmlUrl="https://endgameviable.com/index.xml"/>
       <outline text="Everwake's Adventures" title="Everwake's Adventures" type="rss" xmlUrl="https://blog.everwake.net/feeds/posts/default?alt=rss"/>
       <outline text="GamingSF" title="GamingSF" type="rss" xmlUrl="https://gamingsf.wordpress.com/feed/"/>
       <outline text="Glittering Girly Gwent Gaming" title="Glittering Girly Gwent Gaming" type="rss" xmlUrl="https://girlygwent.emjer.com/feed/"/>
@@ -38,7 +38,11 @@
       <outline text="Unidentified Signal Source" title="Unidentified Signal Source" type="rss" xmlUrl="https://unidentifiedsignalsource.wordpress.com/feed/"/>
 <outline text="Book of Jen" title="Book of Jen" type="rss" xmlUrl="https://bookofjen.net/feed/"/>
 
-<outline text="Whats Occuring" title="Whats Occuring" type="rss" xmlUrl="https://www.youtube.com/JamiesVlogUK"/>
+<outline text="Whats Occuring" title="Whats Occuring" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAv8L8WQAZqClsJItHwIDqw"/>
+
+<outline text="Contains Moderate Peril" title="Contains Moderate Peril" type="rss" xmlUrl="https://www.containsmoderateperil.com/blog?format=rss"/>
+
+<outline text="Gamer Girl Confessions" title="Gamer Girl Confessions" type="rss" xmlUrl="https://gamergirlconfessions.com/feed/"/>
 
 
     </outline>
