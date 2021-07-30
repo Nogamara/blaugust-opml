@@ -12,7 +12,7 @@ xml1 = """
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>OPML file for Blaugust Reborn 2018</title>
+    <title>OPML file for Blaugust 2021</title>
   </head>
   <body>
     <outline title="Blogs" text="Blogs">
@@ -45,7 +45,8 @@ with open(input_file, 'r') as f:
       print('### EXISTS:', slug)
       continue
     try:
-      req = requests.get(line)
+      headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0'}
+      req = requests.get(line, headers=headers)
       print('#', req.status_code)
       data = req.text
       if req.status_code >= 400 or len(data) < 1:
@@ -64,11 +65,12 @@ with open(input_file, 'r') as f:
     slug = slugify(line)
     fname = './cache/{}'.format(slug)
     if os.path.isfile(fname):
+      print("#file# ", slug)
       with open(fname, 'r') as fin:
         data = fin.read()
         soup = BeautifulSoup(data, 'html.parser')
         li = soup.head.find(type='application/rss+xml')
-        print('#li# ', li)
+        print('#link# ', li)
         if li is None:
           print('# ERROR: None')
           li = soup.head.find(type='application/atom+xml')
@@ -110,4 +112,8 @@ for row in sorted(rows, key=tt):
   row['title'] = row['title'].strip()
   print(xml3.format(row['title'],row['title'],tp, row['href']))
 
+with open("fixup.txt", 'r') as f:
+  for line in f.readlines():
+    if len(line.strip()) > 0:
+      print(line)
 print(xml2.rstrip())
