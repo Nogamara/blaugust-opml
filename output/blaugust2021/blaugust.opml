@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>OPML file for Blaugust 2021</title>
+  </head>
+  <body>
+    <outline title="Blogs" text="Blogs">
+      <outline text="A Page Where My Brain Leaks Onto" title="A Page Where My Brain Leaks Onto" type="rss" xmlUrl="https://wordsundermyname.wordpress.com/feed/"/>
+      <outline text="Ace Asunder" title="Ace Asunder" type="rss" xmlUrl="https://aceasunder.com/feed/"/>
+      <outline text="Battle Stance" title="Battle Stance" type="rss" xmlUrl="https://battlestance.org/feed/"/>
+      <outline text="Chasing Dings!" title="Chasing Dings!" type="rss" xmlUrl="https://chasingdings.com/feed/"/>
+      <outline text="Dragonchasers" title="Dragonchasers" type="rss" xmlUrl="https://dragonchasers.com/feed/"/>
+      <outline text="Dragons and Whimsy" title="Dragons and Whimsy" type="rss" xmlUrl="https://dragonsandwhimsy.wordpress.com/feed/"/>
+      <outline text="Endgame Viable" title="Endgame Viable" type="rss" xmlUrl="/index.xml"/>
+      <outline text="Everwake's Adventures" title="Everwake's Adventures" type="rss" xmlUrl="https://blog.everwake.net/feeds/posts/default?alt=rss"/>
+      <outline text="GamingSF" title="GamingSF" type="rss" xmlUrl="https://gamingsf.wordpress.com/feed/"/>
+      <outline text="Glittering Girly Gwent Gaming" title="Glittering Girly Gwent Gaming" type="rss" xmlUrl="https://girlygwent.emjer.com/feed/"/>
+      <outline text="Indiecator" title="Indiecator" type="rss" xmlUrl="https://indiecator.home.blog/feed/"/>
+      <outline text="Inventory Full" title="Inventory Full" type="rss" xmlUrl="https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss"/>
+      <outline text="Kaylriene" title="Kaylriene" type="rss" xmlUrl="https://kaylriene.com/feed/"/>
+      <outline text="Knifesedge Blogs" title="Knifesedge Blogs" type="rss" xmlUrl="https://knifesedgeblogs.wordpress.com/feed/"/>
+      <outline text="Mailvaltar" title="Mailvaltar" type="rss" xmlUrl="https://mailvaltar.wordpress.com/feed/"/>
+      <outline text="Many Welps" title="Many Welps" type="rss" xmlUrl="https://manywelps.com/feed/"/>
+      <outline text="MMO Folklorist" title="MMO Folklorist" type="rss" xmlUrl="https://mmofolklorist.com/feed/"/>
+      <outline text="Narratess" title="Narratess" type="rss" xmlUrl="https://www.narratess.com/feed/"/>
+      <outline text="Nerd Girl Thoughts" title="Nerd Girl Thoughts" type="rss" xmlUrl="https://nerdgirlthoughts.game.blog/feed/"/>
+      <outline text="Nomadic Gamers, eh!" title="Nomadic Gamers, eh!" type="rss" xmlUrl="https://nomadicgamerseh.com/feed/"/>
+      <outline text="Pixel Fairy" title="Pixel Fairy" type="rss" xmlUrl="https://pixelfairy.net/feed/"/>
+      <outline text="Shadowz Abstract Gaming Blog" title="Shadowz Abstract Gaming Blog" type="rss" xmlUrl="https://shadowmmorpg.sadesignz.org/feed"/>
+      <outline text="Shards of Imagination" title="Shards of Imagination" type="rss" xmlUrl="https://shardsofimagination.com/feed/"/>
+      <outline text="Spot of Mummery" title="Spot of Mummery" type="rss" xmlUrl="https://spotofmummery.com/feed/"/>
+      <outline text="The Ancient Gaming Noob" title="The Ancient Gaming Noob" type="rss" xmlUrl="https://tagn.wordpress.com/feed/"/>
+      <outline text="The Friendly Necromancer" title="The Friendly Necromancer" type="rss" xmlUrl="https://thefriendlynecromancer.blogspot.com/feeds/posts/default?alt=rss"/>
+      <outline text="The Parent Trope" title="The Parent Trope" type="rss" xmlUrl="https://theparenttrope.com/feed/"/>
+      <outline text="Through Wolfy's Eyes" title="Through Wolfy's Eyes" type="rss" xmlUrl="https://wolfyseyes.wordpress.com/feed/"/>
+      <outline text="Thyanel Plays" title="Thyanel Plays" type="rss" xmlUrl="https://www.thyanelplays.com/feed/"/>
+      <outline text="Time to Loot" title="Time to Loot" type="rss" xmlUrl="https://www.timetoloot.com/feed/"/>
+      <outline text="Unidentified Signal Source" title="Unidentified Signal Source" type="rss" xmlUrl="https://unidentifiedsignalsource.wordpress.com/feed/"/>
+<outline text="Book of Jen" title="Book of Jen" type="rss" xmlUrl="https://bookofjen.net/feed/"/>
+
+<outline text="Whats Occuring" title="Whats Occuring" type="rss" xmlUrl="https://www.youtube.com/JamiesVlogUK"/>
+
+
+    </outline>
+  </body>
+</opml>
