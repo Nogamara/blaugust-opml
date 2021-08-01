@@ -1,4 +1,5 @@
 https://aceasunder.com/feed/
+https://ashgar.com/feed/
 https://battlestance.org/feed/
 https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss
 https://blog.everwake.net/feeds/posts/default?alt=rss
@@ -13,6 +14,7 @@ https://knifesedgeblogs.wordpress.com/feed/
 https://mailvaltar.wordpress.com/feed/
 https://manywelps.com/feed/
 https://mmofolklorist.com/feed/
+https://mmojuggler.wordpress.com/feed/
 https://nerdgirlthoughts.game.blog/feed/
 https://nomadicgamerseh.com/feed/
 https://pixelfairy.net/feed/

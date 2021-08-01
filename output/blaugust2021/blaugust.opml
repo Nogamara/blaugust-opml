@@ -7,6 +7,7 @@
     <outline title="Blogs" text="Blogs">
       <outline text="A Page Where My Brain Leaks Onto" title="A Page Where My Brain Leaks Onto" type="rss" xmlUrl="https://wordsundermyname.wordpress.com/feed/"/>
       <outline text="Ace Asunder" title="Ace Asunder" type="rss" xmlUrl="https://aceasunder.com/feed/"/>
+      <outline text="Ash's Adventures" title="Ash's Adventures" type="rss" xmlUrl="https://ashgar.com/feed/"/>
       <outline text="Battle Stance" title="Battle Stance" type="rss" xmlUrl="https://battlestance.org/feed/"/>
       <outline text="Chasing Dings!" title="Chasing Dings!" type="rss" xmlUrl="https://chasingdings.com/feed/"/>
       <outline text="Dragonchasers" title="Dragonchasers" type="rss" xmlUrl="https://dragonchasers.com/feed/"/>
@@ -22,10 +23,12 @@
       <outline text="Mailvaltar" title="Mailvaltar" type="rss" xmlUrl="https://mailvaltar.wordpress.com/feed/"/>
       <outline text="Many Welps" title="Many Welps" type="rss" xmlUrl="https://manywelps.com/feed/"/>
       <outline text="MMO Folklorist" title="MMO Folklorist" type="rss" xmlUrl="https://mmofolklorist.com/feed/"/>
+      <outline text="MMO Juggler" title="MMO Juggler" type="rss" xmlUrl="https://mmojuggler.wordpress.com/feed/"/>
       <outline text="Narratess" title="Narratess" type="rss" xmlUrl="https://www.narratess.com/feed/"/>
       <outline text="Nerd Girl Thoughts" title="Nerd Girl Thoughts" type="rss" xmlUrl="https://nerdgirlthoughts.game.blog/feed/"/>
       <outline text="Nomadic Gamers, eh!" title="Nomadic Gamers, eh!" type="rss" xmlUrl="https://nomadicgamerseh.com/feed/"/>
       <outline text="Pixel Fairy" title="Pixel Fairy" type="rss" xmlUrl="https://pixelfairy.net/feed/"/>
+      <outline text="Shadowz Abstract Gaming Blog" title="Shadowz Abstract Gaming Blog" type="rss" xmlUrl="https://shadowmmorpg.sadesignz.org/feed"/>
       <outline text="Shards of Imagination" title="Shards of Imagination" type="rss" xmlUrl="https://shardsofimagination.com/feed/"/>
       <outline text="Spot of Mummery" title="Spot of Mummery" type="rss" xmlUrl="https://spotofmummery.com/feed/"/>
       <outline text="The Ancient Gaming Noob" title="The Ancient Gaming Noob" type="rss" xmlUrl="https://tagn.wordpress.com/feed/"/>
@@ -35,14 +38,11 @@
       <outline text="Thyanel Plays" title="Thyanel Plays" type="rss" xmlUrl="https://www.thyanelplays.com/feed/"/>
       <outline text="Time to Loot" title="Time to Loot" type="rss" xmlUrl="https://www.timetoloot.com/feed/"/>
       <outline text="Unidentified Signal Source" title="Unidentified Signal Source" type="rss" xmlUrl="https://unidentifiedsignalsource.wordpress.com/feed/"/>
-<outline text="Book of Jen" title="Book of Jen" type="rss" xmlUrl="https://bookofjen.net/feed/"/>
-
-<outline text="Whats Occuring" title="Whats Occuring" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAv8L8WQAZqClsJItHwIDqw"/>
-
-<outline text="Contains Moderate Peril" title="Contains Moderate Peril" type="rss" xmlUrl="https://www.containsmoderateperil.com/blog?format=rss"/>
-
-<outline text="Gamer Girl Confessions" title="Gamer Girl Confessions" type="rss" xmlUrl="https://gamergirlconfessions.com/feed/"/>
-
+      <outline text="Book of Jen" title="Book of Jen" type="rss" xmlUrl="https://bookofjen.net/feed/"/>
+      <outline text="Whats Occuring" title="Whats Occuring" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAv8L8WQAZqClsJItHwIDqw"/>
+      <outline text="Contains Moderate Peril" title="Contains Moderate Peril" type="rss" xmlUrl="https://www.containsmoderateperil.com/blog?format=rss"/>
+      <outline text="Gamer Girl Confessions" title="Gamer Girl Confessions" type="rss" xmlUrl="https://gamergirlconfessions.com/feed/"/>
+      <outline text="Tales of the Aggronaut" title="Tales of the Aggronaut" type="rss" xmlUrl="https://aggronaut.com/feed/"/>
 
     </outline>
   </body>
