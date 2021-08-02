@@ -77,9 +77,16 @@ with open(input_file, 'r') as f:
           if li is None:
             print('# ERROR: None')
             continue
-        print('#', li.get('href'))
+        href = li.get('href')
+        print('#', href)
+        if href and href[0] == '/':
+            li2 = soup.head.find(rel='canonical')
+            cano = li2.get('href')
+            if cano:
+              print('#cano#', cano)
+              href = cano + href[1:]
         row = {
-          'href': li.get('href'),
+          'href': href,
           'type': li.get('type'),
           'title': li.get('title'),
           'ptitle': soup.head.title.text,
@@ -112,8 +119,11 @@ for row in sorted(rows, key=tt):
   row['title'] = row['title'].strip()
   print(xml3.format(row['title'],row['title'],tp, row['href']))
 
-with open("fixup.txt", 'r') as f:
-  for line in f.readlines():
-    if len(line.strip()) > 0:
-      print(line)
+try:
+  with open("fixup.txt", 'r') as f:
+    for line in f.readlines():
+      if len(line.strip()) > 0:
+        print(line.rstrip())
+except FileNotFoundException:
+  pass
 print(xml2.rstrip())

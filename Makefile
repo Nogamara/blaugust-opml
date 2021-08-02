@@ -5,6 +5,7 @@ output/blaugust2021/blaugust.opml:
 	@mkdir -p output
 	python opml.py input.txt | tee cache/_out_blaugust2021 | grep -v "^#" > output/blaugust2021/blaugust.opml
 	cat cache/_out_blaugust2021 | grep "^# http" | sed 's/^# //g' | sort  > output/blaugust2021/blaugust.txt
+	cat fixup.txt | grep -o -P 'xmlUrl="([^"]+)' | sed 's/xmlUrl="//'    >> output/blaugust2021/blaugust.txt
 
 output/blapril2020/blaugust.opml:
 	@-rm cache/_out_blapril2020
