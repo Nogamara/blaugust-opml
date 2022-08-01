@@ -42,8 +42,8 @@ https://www.dragonsandwhimsy.co.uk/feed/
 https://www.gamerlady.blog/feed/
 https://www.timetoloot.com/feed/
 http://www.containsmoderateperil.com/blog?format=rss
+https://everwake.net/rss.xml
 https://bookofjen.net/feed/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCAv8L8WQAZqClsJItHwIDqw
 https://www.containsmoderateperil.com/blog?format=rss
-https://gamergirlconfessions.com/feed/
 https://aggronaut.com/feed/
