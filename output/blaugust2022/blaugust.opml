@@ -61,6 +61,7 @@
       <outline text="Whats Occuring" title="Whats Occuring" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAv8L8WQAZqClsJItHwIDqw"/>
       <outline text="Contains Moderate Peril" title="Contains Moderate Peril" type="rss" xmlUrl="https://www.containsmoderateperil.com/blog?format=rss"/>
       <outline text="Tales of the Aggronaut" title="Tales of the Aggronaut" type="rss" xmlUrl="https://aggronaut.com/feed/"/>
+      <outline text="Aywren's Nook - Gaming and Geek Blog" title="Aywren's Nook - Gaming and Geek Blog" type="rss" xmlUrl="https://aywren.com/feed.xml"/>
 
     </outline>
   </body>
