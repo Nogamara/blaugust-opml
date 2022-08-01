@@ -1,4 +1,11 @@
-blaugust: output/blaugust2021/blaugust.opml
+output/blaugust2022/blaugust.opml: input.txt
+
+output/blaugust2022/blaugust.opml:
+	@-rm cache/_out_blaugust2022
+	@mkdir -p output
+	python opml.py input.txt | tee cache/_out_blaugust2022 | grep -v "^#" > output/blaugust2022/blaugust.opml
+	cat cache/_out_blaugust2022 | grep "^# http" | sed 's/^# //g' | sort  > output/blaugust2022/blaugust.txt
+	cat fixup.txt | grep -o -P 'xmlUrl="([^"]+)' | sed 's/xmlUrl="//'    >> output/blaugust2022/blaugust.txt
 
 output/blaugust2021/blaugust.opml:
 	@-rm cache/_out_blaugust2021
@@ -23,4 +30,4 @@ deps:
 	pip install requests
 	pip install beautifulsoup4
 
-.PHONY: deps blaugust
+.PHONY: deps blaugust input.txt

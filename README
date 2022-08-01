@@ -6,5 +6,7 @@
 ```
 mkvirtualenv -p /usr/bin/python3 opml
 workon opml
+pip install bs4
+pip install requests
 make
 ```
