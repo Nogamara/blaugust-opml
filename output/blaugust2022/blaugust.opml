@@ -7,21 +7,25 @@
     <outline title="Blogs" text="Blogs">
       <outline text="A Geek Girl's Guide" title="A Geek Girl's Guide" type="rss" xmlUrl="https://ageekgirlsguide.com/feed/"/>
       <outline text="A Nerdy Fujo Cries" title="A Nerdy Fujo Cries" type="rss" xmlUrl="https://anerdyfujocries.wordpress.com/feed/"/>
-      <outline text="A Page Where My Brain Leaks Onto" title="A Page Where My Brain Leaks Onto" type="rss" xmlUrl="https://wordsundermyname.wordpress.com/feed/"/>
       <outline text="A Vueltas por los Mundos" title="A Vueltas por los Mundos" type="rss" xmlUrl="https://vueltaspodcast.wordpress.com/feed/"/>
       <outline text="Ace Asunder" title="Ace Asunder" type="rss" xmlUrl="https://aceasunder.com/feed/"/>
       <outline text="Battle Stance" title="Battle Stance" type="rss" xmlUrl="https://battlestance.org/feed/"/>
       <outline text="Beyond Tannhauser Gate" title="Beyond Tannhauser Gate" type="rss" xmlUrl="https://www.beyondtannhausergate.com/feed/"/>
       <outline text="Bio Break" title="Bio Break" type="rss" xmlUrl="https://biobreak.wordpress.com/feed/"/>
       <outline text="Blogging with Dragons" title="Blogging with Dragons" type="rss" xmlUrl="https://www.bloggingwithdragons.com/feed/"/>
+      <outline text="Casual Aggro" title="Casual Aggro" type="rss" xmlUrl="https://casualaggro.wordpress.com/feed/"/>
       <outline text="Chasing Dings!" title="Chasing Dings!" type="rss" xmlUrl="https://chasingdings.com/feed/"/>
       <outline text="cinder says" title="cinder says" type="rss" xmlUrl="https://cindersays.net/feed/"/>
       <outline text="Cubic Creativity" title="Cubic Creativity" type="rss" xmlUrl="https://cubiccreativity.wordpress.com/feed/"/>
       <outline text="Dice, Tokens, and Tulips" title="Dice, Tokens, and Tulips" type="rss" xmlUrl="https://pitatulip.wordpress.com/feed/"/>
+      <outline text="Digital-Visceral" title="Digital-Visceral" type="rss" xmlUrl="https://digitalvisceral.com/feed/"/>
+      <outline text="Dispatches from Darksyde" title="Dispatches from Darksyde" type="rss" xmlUrl="https://dispatchesfromdarksyde.wordpress.com/feed/"/>
       <outline text="Dragons and Whimsy" title="Dragons and Whimsy" type="rss" xmlUrl="https://www.dragonsandwhimsy.co.uk/feed/"/>
       <outline text="Endgame Viable" title="Endgame Viable" type="rss" xmlUrl="https://endgameviable.com/index.xml"/>
+      <outline text="FOB III: A Blog" title="FOB III: A Blog" type="rss" xmlUrl="https://fob3.substack.com/feed"/>
       <outline text="Frostilyte Writes" title="Frostilyte Writes" type="rss" xmlUrl="https://frostilyte.ca/feed/"/>
       <outline text="GamerLady P Blog" title="GamerLady P Blog" type="rss" xmlUrl="https://www.gamerlady.blog/feed/"/>
+      <outline text="Gaming Omnivore" title="Gaming Omnivore" type="rss" xmlUrl="https://gamingomnivore.com/feed/"/>
       <outline text="Glittering Girly Gwent Gaming" title="Glittering Girly Gwent Gaming" type="rss" xmlUrl="https://girlygwent.emjer.com/feed/"/>
       <outline text="Going Commando | A SWTOR Fan Blog" title="Going Commando | A SWTOR Fan Blog" type="rss" xmlUrl="https://swtorcommando.blogspot.com/feeds/posts/default?alt=rss"/>
       <outline text="Hundstrasse" title="Hundstrasse" type="rss" xmlUrl="https://hundstrasse.com/feed/"/>
@@ -43,13 +47,15 @@
       <outline text="overage-gaming" title="overage-gaming" type="rss" xmlUrl="https://overage-gaming.com/feed/"/>
       <outline text="Priest with a Cause - A World of Warcraft (Classic) blog" title="Priest with a Cause - A World of Warcraft (Classic) blog" type="rss" xmlUrl="https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss"/>
       <outline text="Shadowlands and getting back into the game" title="Shadowlands and getting back into the game" type="rss" xmlUrl="https://shadowlandsandgettingbackintothegame.wordpress.com/feed/"/>
-      <outline text="Shadowz Abstract Gaming Blog" title="Shadowz Abstract Gaming Blog" type="rss" xmlUrl="https://shadowmmorpg.sadesignz.org/feed"/>
+      <outline text="StarShadow" title="StarShadow" type="rss" xmlUrl="https://starandshadow.wordpress.com/feed/"/>
       <outline text="The Ancient Gaming Noob" title="The Ancient Gaming Noob" type="rss" xmlUrl="https://tagn.wordpress.com/feed/"/>
       <outline text="The Friendly Necromancer" title="The Friendly Necromancer" type="rss" xmlUrl="https://thefriendlynecromancer.blogspot.com/feeds/posts/default?alt=rss"/>
       <outline text="The Ghastly Gamer" title="The Ghastly Gamer" type="rss" xmlUrl="https://ghastlymirror.wordpress.com/feed/"/>
       <outline text="The Last Chapter Gaming Blog" title="The Last Chapter Gaming Blog" type="rss" xmlUrl="https://thelastchapterguild.wordpress.com/feed/"/>
       <outline text="Time to Loot" title="Time to Loot" type="rss" xmlUrl="https://www.timetoloot.com/feed/"/>
+      <outline text="Unidentified Signal Source" title="Unidentified Signal Source" type="rss" xmlUrl="https://unidentifiedsignalsource.wordpress.com/feed/"/>
       <outline text="Welshtroll" title="Welshtroll" type="rss" xmlUrl="https://welshtroll.co.uk/feed/"/>
+      <outline text="Words Under My Name" title="Words Under My Name" type="rss" xmlUrl="https://wordsundermyname.wordpress.com/feed/"/>
       <outline text="everwake.net" title="everwake.net" type="rss" xmlUrl="https://everwake.net/rss.xml"/>
       <outline text="Book of Jen" title="Book of Jen" type="rss" xmlUrl="https://bookofjen.net/feed/"/>
       <outline text="Whats Occuring" title="Whats Occuring" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAv8L8WQAZqClsJItHwIDqw"/>
