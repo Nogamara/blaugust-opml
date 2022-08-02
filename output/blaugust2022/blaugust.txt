@@ -1,4 +1,5 @@
 https://aceasunder.com/feed/
+https://adayinthelifeofflash.wordpress.com/feed/
 https://ageekgirlsguide.com/feed/
 https://anerdyfujocries.wordpress.com/feed/
 https://battlestance.org/feed/
@@ -18,7 +19,9 @@ https://hundstrasse.com/feed/
 https://indiecator.org/feed/
 https://justcallmeroybert.ca/feed/
 https://kaylriene.com/feed/
+https://kaytalksgames.wordpress.com/feed/
 https://knifesedgeblogs.wordpress.com/feed/
+https://ludollama.uk/feed/
 https://mailvaltar.wordpress.com/feed/
 https://manywelps.com/feed/
 https://meghanplaysgames.home.blog/feed/
@@ -31,6 +34,7 @@ https://overage-gaming.com/feed/
 https://pitatulip.wordpress.com/feed/
 https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss
 https://shadowlandsandgettingbackintothegame.wordpress.com/feed/
+https://sonatano1.wordpress.com/feed/
 https://starandshadow.wordpress.com/feed/
 https://swtorcommando.blogspot.com/feeds/posts/default?alt=rss
 https://tagn.wordpress.com/feed/
@@ -45,6 +49,7 @@ https://www.beyondtannhausergate.com/feed/
 https://www.bloggingwithdragons.com/feed/
 https://www.dragonsandwhimsy.co.uk/feed/
 https://www.gamerlady.blog/feed/
+https://www.narratess.com/feed/
 https://www.timetoloot.com/feed/
 http://www.containsmoderateperil.com/blog?format=rss
 https://everwake.net/rss.xml
@@ -53,4 +58,4 @@ https://bookofjen.net/feed/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCAv8L8WQAZqClsJItHwIDqw
 https://www.containsmoderateperil.com/blog?format=rss
 https://aggronaut.com/feed/
-https://aywren.com/
+https://aywren.com/feed.xml

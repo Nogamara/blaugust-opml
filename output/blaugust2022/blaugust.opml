@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline title="Blogs" text="Blogs">
+      <outline text="A Day in the Life of Flash" title="A Day in the Life of Flash" type="rss" xmlUrl="https://adayinthelifeofflash.wordpress.com/feed/"/>
       <outline text="A Geek Girl's Guide" title="A Geek Girl's Guide" type="rss" xmlUrl="https://ageekgirlsguide.com/feed/"/>
       <outline text="A Nerdy Fujo Cries" title="A Nerdy Fujo Cries" type="rss" xmlUrl="https://anerdyfujocries.wordpress.com/feed/"/>
       <outline text="A Vueltas por los Mundos" title="A Vueltas por los Mundos" type="rss" xmlUrl="https://vueltaspodcast.wordpress.com/feed/"/>
@@ -22,6 +23,7 @@
       <outline text="Dispatches from Darksyde" title="Dispatches from Darksyde" type="rss" xmlUrl="https://dispatchesfromdarksyde.wordpress.com/feed/"/>
       <outline text="Dragons and Whimsy" title="Dragons and Whimsy" type="rss" xmlUrl="https://www.dragonsandwhimsy.co.uk/feed/"/>
       <outline text="Endgame Viable" title="Endgame Viable" type="rss" xmlUrl="https://endgameviable.com/index.xml"/>
+      <outline text="Everything is bad for you" title="Everything is bad for you" type="rss" xmlUrl="https://sonatano1.wordpress.com/feed/"/>
       <outline text="FOB III: A Blog" title="FOB III: A Blog" type="rss" xmlUrl="https://fob3.substack.com/feed"/>
       <outline text="Frostilyte Writes" title="Frostilyte Writes" type="rss" xmlUrl="https://frostilyte.ca/feed/"/>
       <outline text="GamerLady P Blog" title="GamerLady P Blog" type="rss" xmlUrl="https://www.gamerlady.blog/feed/"/>
@@ -32,15 +34,18 @@
       <outline text="Indiecator" title="Indiecator" type="rss" xmlUrl="https://indiecator.org/feed/"/>
       <outline text="Inventory Full" title="Inventory Full" type="rss" xmlUrl="https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss"/>
       <outline text="justcallmeroybert" title="justcallmeroybert" type="rss" xmlUrl="https://justcallmeroybert.ca/feed/"/>
+      <outline text="Kay Talks Games" title="Kay Talks Games" type="rss" xmlUrl="https://kaytalksgames.wordpress.com/feed/"/>
       <outline text="Kaylriene" title="Kaylriene" type="rss" xmlUrl="https://kaylriene.com/feed/"/>
       <outline text="Knifesedge Blogs" title="Knifesedge Blogs" type="rss" xmlUrl="https://knifesedgeblogs.wordpress.com/feed/"/>
       <outline text="Leaflocker" title="Leaflocker" type="rss" xmlUrl="https://leaflocker.substack.com/feed"/>
+      <outline text="Ludollama" title="Ludollama" type="rss" xmlUrl="https://ludollama.uk/feed/"/>
       <outline text="Mailvaltar" title="Mailvaltar" type="rss" xmlUrl="https://mailvaltar.wordpress.com/feed/"/>
       <outline text="Many Welps" title="Many Welps" type="rss" xmlUrl="https://manywelps.com/feed/"/>
       <outline text="Meghan Plays Games" title="Meghan Plays Games" type="rss" xmlUrl="https://meghanplaysgames.home.blog/feed/"/>
       <outline text="MMO Casual" title="MMO Casual" type="rss" xmlUrl="https://wowaltaddiction.blogspot.com/feeds/posts/default?alt=rss"/>
       <outline text="Monsterlady's Diary" title="Monsterlady's Diary" type="rss" xmlUrl="https://monsterladysdiary.wordpress.com/feed/"/>
       <outline text="Mutant Reviewers" title="Mutant Reviewers" type="rss" xmlUrl="https://mutantreviewersmovies.com/feed/"/>
+      <outline text="Narratess" title="Narratess" type="rss" xmlUrl="https://www.narratess.com/feed/"/>
       <outline text="Nerd Girl Thoughts" title="Nerd Girl Thoughts" type="rss" xmlUrl="https://nerdgirlthoughts.game.blog/feed/"/>
       <outline text="Nerdy Bookahs" title="Nerdy Bookahs" type="rss" xmlUrl="https://nerdybookahs.wordpress.com/feed/"/>
       <outline text="Nomadic Gamers, eh!" title="Nomadic Gamers, eh!" type="rss" xmlUrl="https://nomadicgamerseh.com/feed/"/>
@@ -57,6 +62,7 @@
       <outline text="Welshtroll" title="Welshtroll" type="rss" xmlUrl="https://welshtroll.co.uk/feed/"/>
       <outline text="Words Under My Name" title="Words Under My Name" type="rss" xmlUrl="https://wordsundermyname.wordpress.com/feed/"/>
       <outline text="everwake.net" title="everwake.net" type="rss" xmlUrl="https://everwake.net/rss.xml"/>
+      <outline text="Shadowz Abstract Gaming" title="Shadowz Abstract Gaming" type="rss" xmlUrl="https://shadowmmorpg.sadesignz.org/feed"/>
       <outline text="Book of Jen" title="Book of Jen" type="rss" xmlUrl="https://bookofjen.net/feed/"/>
       <outline text="Whats Occuring" title="Whats Occuring" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAv8L8WQAZqClsJItHwIDqw"/>
       <outline text="Contains Moderate Peril" title="Contains Moderate Peril" type="rss" xmlUrl="https://www.containsmoderateperil.com/blog?format=rss"/>
