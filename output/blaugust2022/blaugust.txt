@@ -1,10 +1,12 @@
 https://aceasunder.com/feed/
 https://adayinthelifeofflash.wordpress.com/feed/
 https://ageekgirlsguide.com/feed/
+https://alligatorsandaneurysms.wordpress.com/feed/
 https://anerdyfujocries.wordpress.com/feed/
 https://battlestance.org/feed/
 https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss
 https://biobreak.wordpress.com/feed/
+https://breakingwynd.wordpress.com/feed/
 https://casualaggro.wordpress.com/feed/
 https://chasingdings.com/feed/
 https://cindersays.net/feed/
@@ -16,6 +18,7 @@ https://gamingomnivore.com/feed/
 https://ghastlymirror.wordpress.com/feed/
 https://girlygwent.emjer.com/feed/
 https://hundstrasse.com/feed/
+https://ihavetouchedthesky.blogspot.com/feeds/posts/default?alt=rss
 https://indiecator.org/feed/
 https://justcallmeroybert.ca/feed/
 https://kaylriene.com/feed/
@@ -25,6 +28,7 @@ https://ludollama.uk/feed/
 https://mailvaltar.wordpress.com/feed/
 https://manywelps.com/feed/
 https://meghanplaysgames.home.blog/feed/
+https://mikeazariah.wordpress.com/feed/
 https://monsterladysdiary.wordpress.com/feed/
 https://mutantreviewersmovies.com/feed/
 https://nerdgirlthoughts.game.blog/feed/

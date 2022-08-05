@@ -7,13 +7,16 @@
     <outline title="Blogs" text="Blogs">
       <outline text="A Day in the Life of Flash" title="A Day in the Life of Flash" type="rss" xmlUrl="https://adayinthelifeofflash.wordpress.com/feed/"/>
       <outline text="A Geek Girl's Guide" title="A Geek Girl's Guide" type="rss" xmlUrl="https://ageekgirlsguide.com/feed/"/>
+      <outline text="A Missioneer in Eve" title="A Missioneer in Eve" type="rss" xmlUrl="https://mikeazariah.wordpress.com/feed/"/>
       <outline text="A Nerdy Fujo Cries" title="A Nerdy Fujo Cries" type="rss" xmlUrl="https://anerdyfujocries.wordpress.com/feed/"/>
       <outline text="A Vueltas por los Mundos" title="A Vueltas por los Mundos" type="rss" xmlUrl="https://vueltaspodcast.wordpress.com/feed/"/>
       <outline text="Ace Asunder" title="Ace Asunder" type="rss" xmlUrl="https://aceasunder.com/feed/"/>
+      <outline text="alligators and aneurysms!" title="alligators and aneurysms!" type="rss" xmlUrl="https://alligatorsandaneurysms.wordpress.com/feed/"/>
       <outline text="Battle Stance" title="Battle Stance" type="rss" xmlUrl="https://battlestance.org/feed/"/>
       <outline text="Beyond Tannhauser Gate" title="Beyond Tannhauser Gate" type="rss" xmlUrl="https://www.beyondtannhausergate.com/feed/"/>
       <outline text="Bio Break" title="Bio Break" type="rss" xmlUrl="https://biobreak.wordpress.com/feed/"/>
       <outline text="Blogging with Dragons" title="Blogging with Dragons" type="rss" xmlUrl="https://www.bloggingwithdragons.com/feed/"/>
+      <outline text="Breakingwynd" title="Breakingwynd" type="rss" xmlUrl="https://breakingwynd.wordpress.com/feed/"/>
       <outline text="Casual Aggro" title="Casual Aggro" type="rss" xmlUrl="https://casualaggro.wordpress.com/feed/"/>
       <outline text="Chasing Dings!" title="Chasing Dings!" type="rss" xmlUrl="https://chasingdings.com/feed/"/>
       <outline text="cinder says" title="cinder says" type="rss" xmlUrl="https://cindersays.net/feed/"/>
@@ -31,6 +34,7 @@
       <outline text="Glittering Girly Gwent Gaming" title="Glittering Girly Gwent Gaming" type="rss" xmlUrl="https://girlygwent.emjer.com/feed/"/>
       <outline text="Going Commando | A SWTOR Fan Blog" title="Going Commando | A SWTOR Fan Blog" type="rss" xmlUrl="https://swtorcommando.blogspot.com/feeds/posts/default?alt=rss"/>
       <outline text="Hundstrasse" title="Hundstrasse" type="rss" xmlUrl="https://hundstrasse.com/feed/"/>
+      <outline text="I Have Touched the Sky" title="I Have Touched the Sky" type="rss" xmlUrl="https://ihavetouchedthesky.blogspot.com/feeds/posts/default?alt=rss"/>
       <outline text="Indiecator" title="Indiecator" type="rss" xmlUrl="https://indiecator.org/feed/"/>
       <outline text="Inventory Full" title="Inventory Full" type="rss" xmlUrl="https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss"/>
       <outline text="justcallmeroybert" title="justcallmeroybert" type="rss" xmlUrl="https://justcallmeroybert.ca/feed/"/>
